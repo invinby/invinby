@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,js,ts,java,kotlin,swift,php,ruby,rust,dart,lua,scala,r,perl,haskell,haxe,clojure,crystal,coffeescript,elixir,nim,ocaml,octave,fortran,matlab,solidity,zig,v,bash,powershell,html,css,aiscript,forth,gherkin,latex,processing,vala,pug,sass&perline=9&theme=dark" alt="" />
+</p>
+<p align="center">
   <img src="https://cdn.simpleicons.org/ada/42F5FF" width="42" height="42" alt="Ada" />
   <img src="https://cdn.simpleicons.org/erlang/B86BFF" width="42" height="42" alt="Erlang" />
   <img src="https://cdn.simpleicons.org/commonlisp/FF4FD8" width="42" height="42" alt="Common Lisp" />
@@ -23,6 +25,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,docker,kubernetes,linux,windows,arch,cloudflare,aws,azure,gcp,raspberrypi,figma,postman,nginx,mongodb,mysql,postgres,redis,sqlite,neovim,emacs,plan9,bsd,ansible,cmake,gradle,jenkins,heroku,openstack,ai&perline=9&theme=dark" alt="" />
+</p>
+<p align="center">
   <img src="https://cdn.simpleicons.org/mastodon/42F5FF" width="42" height="42" alt="Mastodon" />
   <img src="https://cdn.simpleicons.org/matrix/B86BFF" width="42" height="42" alt="Matrix" />
   <img src="https://cdn.simpleicons.org/signal/FF4FD8" width="42" height="42" alt="Signal" />

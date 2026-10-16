@@ -1,0 +1,9 @@
+Game-icons.net SVGs in this folder are by their respective authors and are licensed under Creative Commons Attribution 3.0 (CC BY 3.0).
+
+- reactor.svg (used as nuclear-reactor.svg): sbed, https://game-icons.net/1x1/sbed/reactor.html
+- steam.svg (used as boiler.svg): Delapouite, https://game-icons.net/1x1/delapouite/steam.html
+- nuclear-plant.svg (used as cooling-tower.svg): Delapouite, https://game-icons.net/1x1/delapouite/nuclear-plant.html
+- turbine.svg (used as steam-turbine.svg): Delapouite, https://game-icons.net/1x1/delapouite/turbine.html
+
+The SVG colors were adapted; the icon artwork comes from the attributed original sources.
+License: https://creativecommons.org/licenses/by/3.0/
