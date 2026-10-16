@@ -1,31 +1,21 @@
 <p align="center">
-  <img src="assets/neon-banner.svg" alt="invinby — build things that work" width="100%" />
+  <img src="assets/neon-banner.svg" alt="invinby" width="100%" />
 </p>
 
-<h1 align="center">invinby <sup>⌁</sup></h1>
+<h3 align="center">LANGUAGES</h3>
 
-<p align="center"><strong>Собираю софт, который решает реальные задачи.</strong><br />
-Learning platforms · security · Telegram bots · device tooling</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,js,ts,java,kotlin,swift,php,ruby,rust,dart,lua,scala,r,perl,haskell,haxe,clojure,crystal,coffeescript,elixir,nim,ocaml,octave,fortran,matlab,solidity,zig,v,bash,powershell,html,css&perline=9&theme=dark" alt="Programming language logos" />
+</p>
 
-<p align="center"><code>«Знаю все языки программирования» — на каких-то даже проходит сборка.</code></p>
+<h3 align="center">FRAMEWORKS &amp; RUNTIMES</h3>
 
-## Что пишу / What I build
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,qt,django,flask,fastapi,nodejs,react,nextjs,vue,angular,svelte,flutter,electron,tauri,wasm&perline=8&theme=dark" alt="Framework and runtime logos" />
+</p>
 
-- **Swift** — нативные приложения для macOS
-- **Python** — backend, автоматизация, Telegram-боты и инструменты
-- **HTML · CSS · PowerShell · Shell · Batchfile** — интерфейсы и системные задачи
-- **В работе также:** Jupyter Notebook · Dockerfile
+<h3 align="center">TOOLS &amp; PLATFORMS</h3>
 
-Это технологии, которые видны в моих публичных проектах. А список «всех языков» выше — конечно, режим разработчика на максималках 😄
-
-## Проекты / Selected work
-
-| Проект | Что внутри |
-| --- | --- |
-| [ColiDev](https://github.com/invinby/coli-dev) | Учебная платформа для macOS: RU/EN-курсы, практика и помощь локального AI. Проект в разработке. |
-| [DoorKick](https://github.com/invinby/doorkick) | Русский полевой самоучитель по IT и кибербезопасности; PDF и редактируемый Markdown. |
-| [XIDER](https://github.com/invinby/XIDER) | Управление собственными Windows/macOS-устройствами через Telegram и MQTT. |
-| [loader-botwarner](https://github.com/invinby/loader-botwarner) | Telegram-бот с утилитами для изображений, видео и повседневных задач. |
-| [DepBank](https://github.com/invinby/DepBank) | Экспериментальный веб-проект на HTML. |
-
-<p align="center"><sub>Идея → прототип → рабочая штука. Остальное — дебаг и кофе.</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,docker,kubernetes,linux,windows,arch,cloudflare,aws,azure,gcp,raspberrypi,figma,postman,nginx,mongodb,mysql,postgres,redis,sqlite&perline=8&theme=dark" alt="Developer tool and platform logos" />
+</p>
