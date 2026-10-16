@@ -74,19 +74,17 @@
 <table align="center"><tbody>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/reactos/B6FF4A" width="36" height="36" alt="ReactOS"><br><sub>ReactOS</sub><br><sup>Windows-подобная ОС</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/qubesos/FFB347" width="36" height="36" alt="Qubes OS"><br><sub>Qubes OS</sub><br><sup>изоляция приложений</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/openwrt/75F7A2" width="36" height="36" alt="OpenWrt"><br><sub>OpenWrt</sub><br><sup>прошивка роутеров</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/endeavouros/67A7FF" width="36" height="36" alt="EndeavourOS"><br><sub>EndeavourOS</sub><br><sup>Linux на базе Arch</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/slackware/FF6B6B" width="36" height="36" alt="Slackware"><br><sub>Slackware</sub><br><sup>классический Linux</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/reactos/B6FF4A" width="36" height="36" alt="ReactOS"><br><sub>ReactOS</sub><br><sup>Windows-подобная ОС</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/qubesos/FFB347" width="36" height="36" alt="Qubes OS"><br><sub>Qubes OS</sub><br><sup>изоляция приложений</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/openwrt/75F7A2" width="36" height="36" alt="OpenWrt"><br><sub>OpenWrt</sub><br><sup>прошивка роутеров</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/endeavouros/67A7FF" width="36" height="36" alt="EndeavourOS"><br><sub>EndeavourOS</sub><br><sup>Linux на базе Arch</sup></td>
   </tr>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/tails/42F5FF" width="36" height="36" alt="Tails"><br><sub>Tails</sub><br><sup>приватная live-ОС</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/torproject/B86BFF" width="36" height="36" alt="Tor Project"><br><sub>Tor Project</sub><br><sup>анонимная сеть</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/gnu/FF4FD8" width="36" height="36" alt="GNU"><br><sub>GNU</sub><br><sup>свободная система</sup></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/slackware/FF6B6B" width="36" height="36" alt="Slackware"><br><sub>Slackware</sub><br><sup>классический Linux</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/tails/42F5FF" width="36" height="36" alt="Tails"><br><sub>Tails</sub><br><sup>приватная live-ОС</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/torproject/B86BFF" width="36" height="36" alt="Tor Project"><br><sub>Tor Project</sub><br><sup>анонимная сеть</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/gnu/FF4FD8" width="36" height="36" alt="GNU"><br><sub>GNU</sub><br><sup>свободная система</sup></td>
   </tr>
 
 </tbody></table>
@@ -96,27 +94,24 @@
 <table align="center"><tbody>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/coreboot/B6FF4A" width="36" height="36" alt="Coreboot"><br><sub>Coreboot</sub><br><sup>открытая прошивка</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/qemu/FFB347" width="36" height="36" alt="QEMU"><br><sub>QEMU</sub><br><sup>эмуляция и виртуалки</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/virtualbox/75F7A2" width="36" height="36" alt="VirtualBox"><br><sub>VirtualBox</sub><br><sup>виртуальные машины</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/vmware/67A7FF" width="36" height="36" alt="VMware"><br><sub>VMware</sub><br><sup>виртуализация</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/espressif/FF6B6B" width="36" height="36" alt="Espressif"><br><sub>Espressif</sub><br><sup>чипы ESP</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/coreboot/B6FF4A" width="36" height="36" alt="Coreboot"><br><sub>Coreboot</sub><br><sup>открытая прошивка</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/qemu/FFB347" width="36" height="36" alt="QEMU"><br><sub>QEMU</sub><br><sup>эмуляция и виртуалки</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/virtualbox/75F7A2" width="36" height="36" alt="VirtualBox"><br><sub>VirtualBox</sub><br><sup>виртуальные машины</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/vmware/67A7FF" width="36" height="36" alt="VMware"><br><sub>VMware</sub><br><sup>виртуализация</sup></td>
   </tr>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/micropython/42F5FF" width="36" height="36" alt="MicroPython"><br><sub>MicroPython</sub><br><sup>Python для микроконтроллеров</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/esphome/B86BFF" width="36" height="36" alt="ESPHome"><br><sub>ESPHome</sub><br><sup>умный дом на ESP</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/platformio/FF4FD8" width="36" height="36" alt="PlatformIO"><br><sub>PlatformIO</sub><br><sup>разработка для устройств</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/octoprint/B6FF4A" width="36" height="36" alt="OctoPrint"><br><sub>OctoPrint</sub><br><sup>управление 3D-принтером</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/homeassistant/FFB347" width="36" height="36" alt="Home Assistant"><br><sub>Home Assistant</sub><br><sup>умный дом</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/espressif/FF6B6B" width="36" height="36" alt="Espressif"><br><sub>Espressif</sub><br><sup>чипы ESP</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/micropython/42F5FF" width="36" height="36" alt="MicroPython"><br><sub>MicroPython</sub><br><sup>Python для микроконтроллеров</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/esphome/B86BFF" width="36" height="36" alt="ESPHome"><br><sub>ESPHome</sub><br><sup>умный дом на ESP</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/platformio/FF4FD8" width="36" height="36" alt="PlatformIO"><br><sub>PlatformIO</sub><br><sup>разработка для устройств</sup></td>
   </tr>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/openhab/75F7A2" width="36" height="36" alt="openHAB"><br><sub>openHAB</sub><br><sup>автоматизация дома</sup></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/octoprint/B6FF4A" width="36" height="36" alt="OctoPrint"><br><sub>OctoPrint</sub><br><sup>управление 3D-принтером</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/homeassistant/FFB347" width="36" height="36" alt="Home Assistant"><br><sub>Home Assistant</sub><br><sup>умный дом</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/openhab/75F7A2" width="36" height="36" alt="openHAB"><br><sub>openHAB</sub><br><sup>автоматизация дома</sup></td>
+    <td width="25%"></td>
   </tr>
 
 </tbody></table>
@@ -126,19 +121,17 @@
 <table align="center"><tbody>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/ada/67A7FF" width="36" height="36" alt="Ada"><br><sub>Ada</sub><br><sup>язык для критических систем</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/erlang/FF6B6B" width="36" height="36" alt="Erlang"><br><sub>Erlang</sub><br><sup>распределённые системы</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/elixir/42F5FF" width="36" height="36" alt="Elixir"><br><sub>Elixir</sub><br><sup>язык на BEAM</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/commonlisp/B86BFF" width="36" height="36" alt="Common Lisp"><br><sub>Common Lisp</sub><br><sup>семейство Lisp</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/wolfram/FF4FD8" width="36" height="36" alt="Wolfram"><br><sub>Wolfram</sub><br><sup>символьные вычисления</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/ada/67A7FF" width="36" height="36" alt="Ada"><br><sub>Ada</sub><br><sup>язык для критических систем</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/erlang/FF6B6B" width="36" height="36" alt="Erlang"><br><sub>Erlang</sub><br><sup>распределённые системы</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/elixir/42F5FF" width="36" height="36" alt="Elixir"><br><sub>Elixir</sub><br><sup>язык на BEAM</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/commonlisp/B86BFF" width="36" height="36" alt="Common Lisp"><br><sub>Common Lisp</sub><br><sup>семейство Lisp</sup></td>
   </tr>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/julia/B6FF4A" width="36" height="36" alt="Julia"><br><sub>Julia</sub><br><sup>численные вычисления</sup></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/wolfram/FF4FD8" width="36" height="36" alt="Wolfram"><br><sub>Wolfram</sub><br><sup>символьные вычисления</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/julia/B6FF4A" width="36" height="36" alt="Julia"><br><sub>Julia</sub><br><sup>численные вычисления</sup></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
   </tr>
 
 </tbody></table>
@@ -148,27 +141,31 @@
 <table align="center"><tbody>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/mastodon/FFB347" width="36" height="36" alt="Mastodon"><br><sub>Mastodon</sub><br><sup>децентрализованные соцсети</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/matrix/75F7A2" width="36" height="36" alt="Matrix"><br><sub>Matrix</sub><br><sup>открытая сеть общения</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/signal/67A7FF" width="36" height="36" alt="Signal"><br><sub>Signal</sub><br><sup>приватный мессенджер</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/element/FF6B6B" width="36" height="36" alt="Element"><br><sub>Element</sub><br><sup>клиент Matrix</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/xmpp/42F5FF" width="36" height="36" alt="XMPP"><br><sub>XMPP</sub><br><sup>открытый протокол чатов</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/mastodon/FFB347" width="36" height="36" alt="Mastodon"><br><sub>Mastodon</sub><br><sup>децентрализованные соцсети</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/matrix/75F7A2" width="36" height="36" alt="Matrix"><br><sub>Matrix</sub><br><sup>открытая сеть общения</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/signal/67A7FF" width="36" height="36" alt="Signal"><br><sub>Signal</sub><br><sup>приватный мессенджер</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/element/FF6B6B" width="36" height="36" alt="Element"><br><sub>Element</sub><br><sup>клиент Matrix</sup></td>
   </tr>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/activitypub/B86BFF" width="36" height="36" alt="ActivityPub"><br><sub>ActivityPub</sub><br><sup>протокол соцсетей</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/syncthing/FF4FD8" width="36" height="36" alt="Syncthing"><br><sub>Syncthing</sub><br><sup>синхронизация без облака</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/wireguard/B6FF4A" width="36" height="36" alt="WireGuard"><br><sub>WireGuard</sub><br><sup>современный VPN</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/openvpn/FFB347" width="36" height="36" alt="OpenVPN"><br><sub>OpenVPN</sub><br><sup>VPN-протокол</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/openstreetmap/75F7A2" width="36" height="36" alt="OpenStreetMap"><br><sub>OpenStreetMap</sub><br><sup>карта от сообщества</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/xmpp/42F5FF" width="36" height="36" alt="XMPP"><br><sub>XMPP</sub><br><sup>открытый протокол чатов</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/activitypub/B86BFF" width="36" height="36" alt="ActivityPub"><br><sub>ActivityPub</sub><br><sup>протокол соцсетей</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/syncthing/FF4FD8" width="36" height="36" alt="Syncthing"><br><sub>Syncthing</sub><br><sup>синхронизация без облака</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/wireguard/B6FF4A" width="36" height="36" alt="WireGuard"><br><sub>WireGuard</sub><br><sup>современный VPN</sup></td>
   </tr>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/wikipedia/67A7FF" width="36" height="36" alt="Wikipedia"><br><sub>Wikipedia</sub><br><sup>свободная энциклопедия</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/internetarchive/FF6B6B" width="36" height="36" alt="Internet Archive"><br><sub>Internet Archive</sub><br><sup>цифровая библиотека</sup></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/archiveofourown/42F5FF" width="36" height="36" alt="Archive of Our Own"><br><sub>Archive of Our Own</sub><br><sup>архив фанатских историй</sup></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/openvpn/FFB347" width="36" height="36" alt="OpenVPN"><br><sub>OpenVPN</sub><br><sup>VPN-протокол</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/openstreetmap/75F7A2" width="36" height="36" alt="OpenStreetMap"><br><sub>OpenStreetMap</sub><br><sup>карта от сообщества</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/wikipedia/67A7FF" width="36" height="36" alt="Wikipedia"><br><sub>Wikipedia</sub><br><sup>свободная энциклопедия</sup></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/internetarchive/FF6B6B" width="36" height="36" alt="Internet Archive"><br><sub>Internet Archive</sub><br><sup>цифровая библиотека</sup></td>
+  </tr>
+
+<tr>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/archiveofourown/42F5FF" width="36" height="36" alt="Archive of Our Own"><br><sub>Archive of Our Own</sub><br><sup>архив фанатских историй</sup></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
   </tr>
 
 </tbody></table>
@@ -178,11 +175,10 @@
 <table align="center"><tbody>
 
 <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/vim/B86BFF" width="36" height="36" alt="Vim"><br><sub>Vim</sub><br><sup>редактор для терминала</sup></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/vim/B86BFF" width="36" height="36" alt="Vim"><br><sub>Vim</sub><br><sup>редактор для терминала</sup></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
   </tr>
 
 </tbody></table>
