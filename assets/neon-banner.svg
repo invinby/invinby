@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">invinby — build things that work</title>
+  <desc id="desc">Dark neon banner with cyan and violet circuit lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b16"/>
+      <stop offset="0.55" stop-color="#101329"/>
+      <stop offset="1" stop-color="#090b18"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#42f5ff"/>
+      <stop offset="0.52" stop-color="#8d8bff"/>
+      <stop offset="1" stop-color="#ff4fd8"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.82" cy="0.28" r="0.8">
+      <stop offset="0" stop-color="#623cff" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#101329" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8291c9" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#halo)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#neon)" stroke-width="2" opacity="0.8" filter="url(#glow)">
+    <path d="M0 60H110L142 92H240"/>
+    <path d="M0 238H150L182 206H260"/>
+    <path d="M1200 58H1080L1048 90H955"/>
+    <path d="M1200 242H1080L1048 210H955"/>
+    <path d="M92 60v38m101 140v-32m914-148v34m-94 148v-30"/>
+  </g>
+  <g fill="#0c1123" stroke="url(#neon)" stroke-width="2" filter="url(#glow)">
+    <circle cx="110" cy="60" r="5"/><circle cx="150" cy="238" r="5"/>
+    <circle cx="1080" cy="58" r="5"/><circle cx="1080" cy="242" r="5"/>
+  </g>
+  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+    <text x="600" y="125" fill="#42f5ff" opacity="0.8" font-size="14" letter-spacing="8">BUILD · DEBUG · REPEAT</text>
+    <text x="600" y="192" fill="#f5f7ff" font-size="66" font-weight="700" letter-spacing="2">invinby</text>
+    <text x="600" y="232" fill="#aab3d3" font-size="18" letter-spacing="2">SOFTWARE · SECURITY · SYSTEMS</text>
+  </g>
+  <path d="M430 254H770" stroke="url(#neon)" stroke-width="2" opacity="0.72" filter="url(#glow)"/>
+</svg>
