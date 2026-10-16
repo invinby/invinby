@@ -2,197 +2,222 @@
   <img src="assets/neon-banner.svg" alt="invinby" width="100%" />
 </p>
 
+
 <h3 align="center">LANGUAGES</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,js,ts,java,kotlin,swift,php,ruby,rust,dart,lua,scala,r,perl,haskell,haxe,clojure,crystal,coffeescript,elixir,nim,ocaml,octave,fortran,matlab,solidity,zig,v,bash,powershell,html,css,aiscript,forth,gherkin,latex,processing,vala,assemblyscript,pug,sass&perline=9&theme=dark" alt="Programming language logos" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,js,ts,java,kotlin,swift,php,ruby,rust,dart,lua,scala,r,perl,haskell,haxe,clojure,crystal,coffeescript,elixir,nim,ocaml,octave,fortran,matlab,solidity,zig,v,bash,powershell,html,css,aiscript,forth,gherkin,latex,processing,vala,pug,sass&perline=9&theme=dark" alt="" />
+  <img src="https://cdn.simpleicons.org/ada/42F5FF" width="42" height="42" alt="Ada" />
+  <img src="https://cdn.simpleicons.org/erlang/B86BFF" width="42" height="42" alt="Erlang" />
+  <img src="https://cdn.simpleicons.org/commonlisp/FF4FD8" width="42" height="42" alt="Common Lisp" />
+  <img src="https://cdn.simpleicons.org/wolfram/B6FF4A" width="42" height="42" alt="Wolfram" />
+  <img src="https://cdn.simpleicons.org/julia/FFB347" width="42" height="42" alt="Julia" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/75F7A2" width="42" height="42" alt="AssemblyScript" />
 </p>
-
-<h3 align="center">FRAMEWORKS &amp; RUNTIMES</h3>
+<h3 align="center">FRAMEWORKS & RUNTIMES</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,qt,django,flask,fastapi,nodejs,react,nextjs,vue,angular,svelte,flutter,electron,tauri,wasm,actix,alpinejs,astro,bevy,deno,express,gtk,godot,grafana,ipfs,prisma,selenium,solidjs,tailwind,unity,unreal,workers&perline=8&theme=dark" alt="Framework and runtime logos" />
+  <img src="https://skillicons.dev/icons?i=dotnet,qt,django,flask,fastapi,nodejs,react,nextjs,vue,angular,svelte,flutter,electron,tauri,wasm,actix,alpinejs,astro,bevy,deno,express,gtk,godot,grafana,ipfs,prisma,selenium,solidjs,tailwind,unity,unreal,workers&perline=9&theme=dark" alt="" />
 </p>
-
-<h3 align="center">TOOLS &amp; PLATFORMS</h3>
+<h3 align="center">TOOLS & PLATFORMS</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,docker,kubernetes,linux,windows,arch,cloudflare,aws,azure,gcp,raspberrypi,figma,postman,nginx,mongodb,mysql,postgres,redis,sqlite,neovim,emacs,plan9,bsd,ansible,cmake,gradle,jenkins,heroku,openstack&perline=8&theme=dark" alt="Developer tool and platform logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,docker,kubernetes,linux,windows,arch,cloudflare,aws,azure,gcp,raspberrypi,figma,postman,nginx,mongodb,mysql,postgres,redis,sqlite,neovim,emacs,plan9,bsd,ansible,cmake,gradle,jenkins,heroku,openstack,ai&perline=9&theme=dark" alt="" />
+  <img src="https://cdn.simpleicons.org/mastodon/42F5FF" width="42" height="42" alt="Mastodon" />
+  <img src="https://cdn.simpleicons.org/matrix/B86BFF" width="42" height="42" alt="Matrix" />
+  <img src="https://cdn.simpleicons.org/signal/FF4FD8" width="42" height="42" alt="Signal" />
+  <img src="https://cdn.simpleicons.org/element/B6FF4A" width="42" height="42" alt="Element" />
+  <img src="https://cdn.simpleicons.org/xmpp/FFB347" width="42" height="42" alt="XMPP" />
+  <img src="https://cdn.simpleicons.org/activitypub/75F7A2" width="42" height="42" alt="ActivityPub" />
+  <img src="https://cdn.simpleicons.org/syncthing/67A7FF" width="42" height="42" alt="Syncthing" />
+  <img src="https://cdn.simpleicons.org/wireguard/FF6B6B" width="42" height="42" alt="WireGuard" />
+  <img src="https://cdn.simpleicons.org/openvpn/42F5FF" width="42" height="42" alt="OpenVPN" />
+  <img src="https://cdn.simpleicons.org/openstreetmap/B86BFF" width="42" height="42" alt="OpenStreetMap" />
+  <img src="https://cdn.simpleicons.org/wikipedia/FF4FD8" width="42" height="42" alt="Wikipedia" />
+  <img src="https://cdn.simpleicons.org/internetarchive/B6FF4A" width="42" height="42" alt="Internet Archive" />
+  <img src="https://cdn.simpleicons.org/archiveofourown/FFB347" width="42" height="42" alt="Archive of Our Own" />
+  <img src="https://cdn.simpleicons.org/vim/75F7A2" width="42" height="42" alt="Vim" />
+  <img src="https://cdn.simpleicons.org/torproject/67A7FF" width="42" height="42" alt="Tor Project" />
 </p>
-
-<h3 align="center">APPLE · MACINTOSH · CLASSIC HARDWARE</h3>
+<h3 align="center">HARDWARE</h3>
 
 <p align="center">
-  <img height="42" width="42" alt="Apple Macintosh" title="Apple Macintosh" src="https://cdn.simpleicons.org/apple/42F5FF" />
-  <img height="42" width="42" alt="macOS" title="macOS" src="https://cdn.simpleicons.org/macos/8D8BFF" />
-  <img height="42" width="42" alt="Commodore" title="Commodore" src="https://cdn.simpleicons.org/commodore/1E2A4E" />
-  <img height="42" width="42" alt="Atari" title="Atari" src="https://cdn.simpleicons.org/atari/E4202E" />
-  <img height="42" width="42" alt="Motorola" title="Motorola" src="https://cdn.simpleicons.org/motorola/E1140A" />
-  <img height="42" width="42" alt="Intel" title="Intel" src="https://cdn.simpleicons.org/intel/0071C5" />
-  <img height="42" width="42" alt="AMD" title="AMD" src="https://cdn.simpleicons.org/amd/ED1C24" />
-  <img height="42" width="42" alt="NVIDIA" title="NVIDIA" src="https://cdn.simpleicons.org/nvidia/76B900" />
-  <img height="42" width="42" alt="Arm" title="Arm" src="https://cdn.simpleicons.org/arm/0091BD" />
-  <img height="42" width="42" alt="HP" title="HP" src="https://cdn.simpleicons.org/hp/0096D6" />
-  <img height="42" width="42" alt="Raspberry Pi" title="Raspberry Pi" src="https://cdn.simpleicons.org/raspberrypi/A22846" />
-  <img height="42" width="42" alt="Arduino" title="Arduino" src="https://cdn.simpleicons.org/arduino/00878F" />
-  <img height="42" width="42" alt="Adafruit" title="Adafruit" src="https://cdn.simpleicons.org/adafruit/42F5FF" />
-  <img height="42" width="42" alt="Sega" title="Sega" src="https://cdn.simpleicons.org/sega/0089CF" />
-  <img height="42" width="42" alt="Sony" title="Sony" src="https://cdn.simpleicons.org/sony/FFFFFF" />
+  <img src="https://cdn.simpleicons.org/apple/42F5FF" width="42" height="42" alt="Apple" />
+  <img src="https://cdn.simpleicons.org/macos/B86BFF" width="42" height="42" alt="macOS" />
+  <img src="https://cdn.simpleicons.org/commodore/FF4FD8" width="42" height="42" alt="Commodore" />
+  <img src="https://cdn.simpleicons.org/atari/B6FF4A" width="42" height="42" alt="Atari" />
+  <img src="https://cdn.simpleicons.org/motorola/FFB347" width="42" height="42" alt="Motorola" />
+  <img src="https://cdn.simpleicons.org/intel/75F7A2" width="42" height="42" alt="Intel" />
+  <img src="https://cdn.simpleicons.org/amd/67A7FF" width="42" height="42" alt="AMD" />
+  <img src="https://cdn.simpleicons.org/nvidia/FF6B6B" width="42" height="42" alt="NVIDIA" />
+  <img src="https://cdn.simpleicons.org/arm/42F5FF" width="42" height="42" alt="Arm" />
+  <img src="https://cdn.simpleicons.org/hp/B86BFF" width="42" height="42" alt="HP" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/FF4FD8" width="42" height="42" alt="Raspberry Pi" />
+  <img src="https://cdn.simpleicons.org/arduino/B6FF4A" width="42" height="42" alt="Arduino" />
+  <img src="https://cdn.simpleicons.org/adafruit/FFB347" width="42" height="42" alt="Adafruit" />
+  <img src="https://cdn.simpleicons.org/sega/75F7A2" width="42" height="42" alt="Sega" />
+  <img src="https://cdn.simpleicons.org/sony/67A7FF" width="42" height="42" alt="Sony" />
+  <img src="https://cdn.simpleicons.org/framework/FF6B6B" width="42" height="42" alt="Framework" />
+  <img src="https://cdn.simpleicons.org/system76/42F5FF" width="42" height="42" alt="System76" />
+  <img src="https://cdn.simpleicons.org/asus/B86BFF" width="42" height="42" alt="ASUS" />
+  <img src="https://cdn.simpleicons.org/lenovo/FF4FD8" width="42" height="42" alt="Lenovo" />
+  <img src="https://cdn.simpleicons.org/dell/B6FF4A" width="42" height="42" alt="Dell" />
+  <img src="https://cdn.simpleicons.org/acer/FFB347" width="42" height="42" alt="Acer" />
+  <img src="https://cdn.simpleicons.org/alienware/75F7A2" width="42" height="42" alt="Alienware" />
+  <img src="https://cdn.simpleicons.org/epson/67A7FF" width="42" height="42" alt="Epson" />
+  <img src="https://cdn.simpleicons.org/samsung/FF6B6B" width="42" height="42" alt="Samsung" />
+  <img src="https://cdn.simpleicons.org/qualcomm/42F5FF" width="42" height="42" alt="Qualcomm" />
+  <img src="https://cdn.simpleicons.org/mediatek/B86BFF" width="42" height="42" alt="MediaTek" />
+  <img src="https://cdn.simpleicons.org/broadcom/FF4FD8" width="42" height="42" alt="Broadcom" />
+  <img src="https://cdn.simpleicons.org/seagate/B6FF4A" width="42" height="42" alt="Seagate" />
+  <img src="https://cdn.simpleicons.org/corsair/FFB347" width="42" height="42" alt="Corsair" />
+  <img src="https://cdn.simpleicons.org/msi/75F7A2" width="42" height="42" alt="MSI" />
+  <img src="https://cdn.simpleicons.org/supermicro/67A7FF" width="42" height="42" alt="Supermicro" />
+  <img src="https://cdn.simpleicons.org/razer/FF6B6B" width="42" height="42" alt="Razer" />
+  <img src="https://cdn.simpleicons.org/fujitsu/42F5FF" width="42" height="42" alt="Fujitsu" />
+  <img src="https://cdn.simpleicons.org/coreboot/B86BFF" width="42" height="42" alt="Coreboot" />
+  <img src="https://cdn.simpleicons.org/qemu/FF4FD8" width="42" height="42" alt="QEMU" />
+  <img src="https://cdn.simpleicons.org/virtualbox/B6FF4A" width="42" height="42" alt="VirtualBox" />
+  <img src="https://cdn.simpleicons.org/vmware/FFB347" width="42" height="42" alt="VMware" />
+  <img src="https://cdn.simpleicons.org/espressif/75F7A2" width="42" height="42" alt="Espressif" />
+  <img src="https://cdn.simpleicons.org/micropython/67A7FF" width="42" height="42" alt="MicroPython" />
+  <img src="https://cdn.simpleicons.org/esphome/FF6B6B" width="42" height="42" alt="ESPHome" />
+  <img src="https://cdn.simpleicons.org/platformio/42F5FF" width="42" height="42" alt="PlatformIO" />
+  <img src="https://cdn.simpleicons.org/octoprint/B86BFF" width="42" height="42" alt="OctoPrint" />
+  <img src="https://cdn.simpleicons.org/homeassistant/FF4FD8" width="42" height="42" alt="Home Assistant" />
+  <img src="https://cdn.simpleicons.org/openhab/B6FF4A" width="42" height="42" alt="openHAB" />
 </p>
-
-<h3 align="center">UNIX &amp; LINUX SIDE QUESTS</h3>
+<h3 align="center">OPERATING SYSTEMS</h3>
 
 <p align="center">
-  <img height="38" width="38" alt="Linux" title="Linux" src="https://cdn.simpleicons.org/linux/FFFFFF" />
-  <img height="38" width="38" alt="Arch Linux" title="Arch Linux" src="https://cdn.simpleicons.org/archlinux/1793D1" />
-  <img height="38" width="38" alt="Debian" title="Debian" src="https://cdn.simpleicons.org/debian/A81D33" />
-  <img height="38" width="38" alt="Fedora" title="Fedora" src="https://cdn.simpleicons.org/fedora/51A2DA" />
-  <img height="38" width="38" alt="Gentoo" title="Gentoo" src="https://cdn.simpleicons.org/gentoo/54487A" />
-  <img height="38" width="38" alt="NixOS" title="NixOS" src="https://cdn.simpleicons.org/nixos/5277C3" />
-  <img height="38" width="38" alt="Alpine Linux" title="Alpine Linux" src="https://cdn.simpleicons.org/alpinelinux/0D597F" />
-  <img height="38" width="38" alt="AlmaLinux" title="AlmaLinux" src="https://cdn.simpleicons.org/almalinux/0F4266" />
-  <img height="38" width="38" alt="Artix Linux" title="Artix Linux" src="https://cdn.simpleicons.org/artixlinux/10A0CC" />
-  <img height="38" width="38" alt="Asahi Linux" title="Asahi Linux" src="https://cdn.simpleicons.org/asahilinux/A61200" />
-  <img height="38" width="38" alt="FreeBSD" title="FreeBSD" src="https://cdn.simpleicons.org/freebsd/AB2B28" />
-  <img height="38" width="38" alt="OpenBSD" title="OpenBSD" src="https://cdn.simpleicons.org/openbsd/F2CA30" />
-  <img height="38" width="38" alt="NetBSD" title="NetBSD" src="https://cdn.simpleicons.org/netbsd/FF6600" />
-  <img height="38" width="38" alt="Kali Linux" title="Kali Linux" src="https://cdn.simpleicons.org/kalilinux/557C94" />
-  <img height="38" width="38" alt="openSUSE" title="openSUSE" src="https://cdn.simpleicons.org/opensuse/73BA25" />
-  <img height="38" width="38" alt="Void Linux" title="Void Linux" src="https://cdn.simpleicons.org/voidlinux/478061" />
-  <img height="38" width="38" alt="Garuda Linux" title="Garuda Linux" src="https://cdn.simpleicons.org/garudalinux/2977FF" />
-  <img height="38" width="38" alt="Linux Mint" title="Linux Mint" src="https://cdn.simpleicons.org/linuxmint/86BE43" />
-  <img height="38" width="38" alt="Ubuntu" title="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420" />
-  <img height="38" width="38" alt="Kubuntu" title="Kubuntu" src="https://cdn.simpleicons.org/kubuntu/0079C1" />
-  <img height="38" width="38" alt="Rocky Linux" title="Rocky Linux" src="https://cdn.simpleicons.org/rockylinux/10B981" />
-  <img height="38" width="38" alt="MX Linux" title="MX Linux" src="https://cdn.simpleicons.org/mxlinux/42F5FF" />
+  <img src="https://cdn.simpleicons.org/linux/42F5FF" width="42" height="42" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/archlinux/B86BFF" width="42" height="42" alt="Arch Linux" />
+  <img src="https://cdn.simpleicons.org/debian/FF4FD8" width="42" height="42" alt="Debian" />
+  <img src="https://cdn.simpleicons.org/fedora/B6FF4A" width="42" height="42" alt="Fedora" />
+  <img src="https://cdn.simpleicons.org/gentoo/FFB347" width="42" height="42" alt="Gentoo" />
+  <img src="https://cdn.simpleicons.org/nixos/75F7A2" width="42" height="42" alt="NixOS" />
+  <img src="https://cdn.simpleicons.org/alpinelinux/67A7FF" width="42" height="42" alt="Alpine Linux" />
+  <img src="https://cdn.simpleicons.org/almalinux/FF6B6B" width="42" height="42" alt="AlmaLinux" />
+  <img src="https://cdn.simpleicons.org/artixlinux/42F5FF" width="42" height="42" alt="Artix Linux" />
+  <img src="https://cdn.simpleicons.org/asahilinux/B86BFF" width="42" height="42" alt="Asahi Linux" />
+  <img src="https://cdn.simpleicons.org/freebsd/FF4FD8" width="42" height="42" alt="FreeBSD" />
+  <img src="https://cdn.simpleicons.org/openbsd/B6FF4A" width="42" height="42" alt="OpenBSD" />
+  <img src="https://cdn.simpleicons.org/netbsd/FFB347" width="42" height="42" alt="NetBSD" />
+  <img src="https://cdn.simpleicons.org/kalilinux/75F7A2" width="42" height="42" alt="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/opensuse/67A7FF" width="42" height="42" alt="openSUSE" />
+  <img src="https://cdn.simpleicons.org/voidlinux/FF6B6B" width="42" height="42" alt="Void Linux" />
+  <img src="https://cdn.simpleicons.org/garudalinux/42F5FF" width="42" height="42" alt="Garuda Linux" />
+  <img src="https://cdn.simpleicons.org/linuxmint/B86BFF" width="42" height="42" alt="Linux Mint" />
+  <img src="https://cdn.simpleicons.org/ubuntu/FF4FD8" width="42" height="42" alt="Ubuntu" />
+  <img src="https://cdn.simpleicons.org/kubuntu/B6FF4A" width="42" height="42" alt="Kubuntu" />
+  <img src="https://cdn.simpleicons.org/rockylinux/FFB347" width="42" height="42" alt="Rocky Linux" />
+  <img src="https://cdn.simpleicons.org/mxlinux/75F7A2" width="42" height="42" alt="MX Linux" />
+  <img src="https://cdn.simpleicons.org/reactos/67A7FF" width="42" height="42" alt="ReactOS" />
+  <img src="https://cdn.simpleicons.org/qubesos/FF6B6B" width="42" height="42" alt="Qubes OS" />
+  <img src="https://cdn.simpleicons.org/openwrt/42F5FF" width="42" height="42" alt="OpenWrt" />
+  <img src="https://cdn.simpleicons.org/endeavouros/B86BFF" width="42" height="42" alt="EndeavourOS" />
+  <img src="https://cdn.simpleicons.org/slackware/FF4FD8" width="42" height="42" alt="Slackware" />
+  <img src="https://cdn.simpleicons.org/tails/B6FF4A" width="42" height="42" alt="Tails" />
+  <img src="https://cdn.simpleicons.org/nobaralinux/FFB347" width="42" height="42" alt="Nobara Linux" />
+  <img src="https://cdn.simpleicons.org/cachyos/75F7A2" width="42" height="42" alt="CachyOS" />
+  <img src="https://cdn.simpleicons.org/zorin/67A7FF" width="42" height="42" alt="Zorin" />
+  <img src="https://cdn.simpleicons.org/grapheneos/FF6B6B" width="42" height="42" alt="GrapheneOS" />
+  <img src="https://cdn.simpleicons.org/lineageos/42F5FF" width="42" height="42" alt="LineageOS" />
+  <img src="https://cdn.simpleicons.org/kaios/B86BFF" width="42" height="42" alt="KaiOS" />
+  <img src="https://cdn.simpleicons.org/harmonyos/FF4FD8" width="42" height="42" alt="HarmonyOS" />
+  <img src="https://cdn.simpleicons.org/android/B6FF4A" width="42" height="42" alt="Android" />
+  <img src="https://cdn.simpleicons.org/ios/FFB347" width="42" height="42" alt="iOS" />
+  <img src="https://cdn.simpleicons.org/atlasos/75F7A2" width="42" height="42" alt="AtlasOS" />
+  <img src="https://cdn.simpleicons.org/popos/67A7FF" width="42" height="42" alt="Pop!_OS" />
+  <img src="https://cdn.simpleicons.org/sailfishos/FF6B6B" width="42" height="42" alt="Sailfish OS" />
+  <img src="https://cdn.simpleicons.org/resurrectionremixos/42F5FF" width="42" height="42" alt="Resurrection Remix OS" />
+  <img src="https://cdn.simpleicons.org/googlecontaineroptimizedos/B86BFF" width="42" height="42" alt="Google Container Optimized OS" />
 </p>
-
-<h3 align="center">НЕОЖИДАННАЯ ТЕХНОПОЛКА</h3>
-
-<h4 align="center">ОС, UNIX И ЦИФРОВАЯ ПРИВАТНОСТЬ</h4>
-
-<table align="center"><tbody>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/reactos/B6FF4A" width="36" height="36" alt="ReactOS"><br><sub>ReactOS</sub><br><sup>Windows-подобная ОС</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/qubesos/FFB347" width="36" height="36" alt="Qubes OS"><br><sub>Qubes OS</sub><br><sup>изоляция приложений</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/openwrt/75F7A2" width="36" height="36" alt="OpenWrt"><br><sub>OpenWrt</sub><br><sup>прошивка роутеров</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/endeavouros/67A7FF" width="36" height="36" alt="EndeavourOS"><br><sub>EndeavourOS</sub><br><sup>Linux на базе Arch</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/slackware/FF6B6B" width="36" height="36" alt="Slackware"><br><sub>Slackware</sub><br><sup>классический Linux</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/tails/42F5FF" width="36" height="36" alt="Tails"><br><sub>Tails</sub><br><sup>приватная live-ОС</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/torproject/B86BFF" width="36" height="36" alt="Tor Project"><br><sub>Tor Project</sub><br><sup>анонимная сеть</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/gnu/FF4FD8" width="36" height="36" alt="GNU"><br><sub>GNU</sub><br><sup>свободная система</sup></td>
-    <td width="33%"></td>
-  </tr>
-
-</tbody></table>
-
-<h4 align="center">ЖЕЛЕЗО, ПРОШИВКИ И ЭМУЛЯЦИЯ</h4>
-
-<table align="center"><tbody>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/coreboot/B6FF4A" width="36" height="36" alt="Coreboot"><br><sub>Coreboot</sub><br><sup>открытая прошивка</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/qemu/FFB347" width="36" height="36" alt="QEMU"><br><sub>QEMU</sub><br><sup>эмуляция и виртуалки</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/virtualbox/75F7A2" width="36" height="36" alt="VirtualBox"><br><sub>VirtualBox</sub><br><sup>виртуальные машины</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/vmware/67A7FF" width="36" height="36" alt="VMware"><br><sub>VMware</sub><br><sup>виртуализация</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/espressif/FF6B6B" width="36" height="36" alt="Espressif"><br><sub>Espressif</sub><br><sup>чипы ESP</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/micropython/42F5FF" width="36" height="36" alt="MicroPython"><br><sub>MicroPython</sub><br><sup>Python для микроконтроллеров</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/esphome/B86BFF" width="36" height="36" alt="ESPHome"><br><sub>ESPHome</sub><br><sup>умный дом на ESP</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/platformio/FF4FD8" width="36" height="36" alt="PlatformIO"><br><sub>PlatformIO</sub><br><sup>разработка для устройств</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/octoprint/B6FF4A" width="36" height="36" alt="OctoPrint"><br><sub>OctoPrint</sub><br><sup>управление 3D-принтером</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/homeassistant/FFB347" width="36" height="36" alt="Home Assistant"><br><sub>Home Assistant</sub><br><sup>умный дом</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/openhab/75F7A2" width="36" height="36" alt="openHAB"><br><sub>openHAB</sub><br><sup>автоматизация дома</sup></td>
-    <td width="33%"></td>
-  </tr>
-
-</tbody></table>
-
-<h4 align="center">ЯЗЫКИ ИЗ ДРУГОГО ИЗМЕРЕНИЯ</h4>
-
-<table align="center"><tbody>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/ada/67A7FF" width="36" height="36" alt="Ada"><br><sub>Ada</sub><br><sup>язык для критических систем</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/erlang/FF6B6B" width="36" height="36" alt="Erlang"><br><sub>Erlang</sub><br><sup>распределённые системы</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/elixir/42F5FF" width="36" height="36" alt="Elixir"><br><sub>Elixir</sub><br><sup>язык на BEAM</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/commonlisp/B86BFF" width="36" height="36" alt="Common Lisp"><br><sub>Common Lisp</sub><br><sup>семейство Lisp</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/wolfram/FF4FD8" width="36" height="36" alt="Wolfram"><br><sub>Wolfram</sub><br><sup>символьные вычисления</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/julia/B6FF4A" width="36" height="36" alt="Julia"><br><sub>Julia</sub><br><sup>численные вычисления</sup></td>
-  </tr>
-
-</tbody></table>
-
-<h4 align="center">СТРАННЫЕ УГОЛКИ ИНТЕРНЕТА</h4>
-
-<table align="center"><tbody>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/mastodon/FFB347" width="36" height="36" alt="Mastodon"><br><sub>Mastodon</sub><br><sup>децентрализованные соцсети</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/matrix/75F7A2" width="36" height="36" alt="Matrix"><br><sub>Matrix</sub><br><sup>открытая сеть общения</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/signal/67A7FF" width="36" height="36" alt="Signal"><br><sub>Signal</sub><br><sup>приватный мессенджер</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/element/FF6B6B" width="36" height="36" alt="Element"><br><sub>Element</sub><br><sup>клиент Matrix</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/xmpp/42F5FF" width="36" height="36" alt="XMPP"><br><sub>XMPP</sub><br><sup>открытый протокол чатов</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/activitypub/B86BFF" width="36" height="36" alt="ActivityPub"><br><sub>ActivityPub</sub><br><sup>протокол соцсетей</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/syncthing/FF4FD8" width="36" height="36" alt="Syncthing"><br><sub>Syncthing</sub><br><sup>синхронизация без облака</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/wireguard/B6FF4A" width="36" height="36" alt="WireGuard"><br><sub>WireGuard</sub><br><sup>современный VPN</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/openvpn/FFB347" width="36" height="36" alt="OpenVPN"><br><sub>OpenVPN</sub><br><sup>VPN-протокол</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/openstreetmap/75F7A2" width="36" height="36" alt="OpenStreetMap"><br><sub>OpenStreetMap</sub><br><sup>карта от сообщества</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/wikipedia/67A7FF" width="36" height="36" alt="Wikipedia"><br><sub>Wikipedia</sub><br><sup>свободная энциклопедия</sup></td>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/internetarchive/FF6B6B" width="36" height="36" alt="Internet Archive"><br><sub>Internet Archive</sub><br><sup>цифровая библиотека</sup></td>
-  </tr>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/archiveofourown/42F5FF" width="36" height="36" alt="Archive of Our Own"><br><sub>Archive of Our Own</sub><br><sup>архив фанатских историй</sup></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
-  </tr>
-
-</tbody></table>
-
-<h4 align="center">ТЕРМИНАЛЬНАЯ КЛАССИКА</h4>
-
-<table align="center"><tbody>
-
-<tr>
-    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/vim/B86BFF" width="36" height="36" alt="Vim"><br><sub>Vim</sub><br><sup>редактор для терминала</sup></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
-  </tr>
-
-</tbody></table>
-
-<h3 align="center">AI · NEURAL NETWORKS · DATA</h3>
+<h3 align="center">AI / ML</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,jupyter&perline=8&theme=dark" alt="Artificial intelligence, machine learning and data logos" />
-  <img height="42" width="42" alt="Anthropic" title="Anthropic" src="https://cdn.simpleicons.org/anthropic/FFFFFF" />
-  <img height="42" width="42" alt="Hugging Face" title="Hugging Face" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=9&theme=dark" alt="" />
+  <img src="https://cdn.simpleicons.org/googlegemini/42F5FF" width="42" height="42" alt="Google Gemini" />
+  <img src="https://cdn.simpleicons.org/mistralai/B86BFF" width="42" height="42" alt="Mistral AI" />
+  <img src="https://cdn.simpleicons.org/deepseek/FF4FD8" width="42" height="42" alt="DeepSeek" />
+  <img src="https://cdn.simpleicons.org/metaai/B6FF4A" width="42" height="42" alt="Meta AI" />
+  <img src="https://cdn.simpleicons.org/perplexity/FFB347" width="42" height="42" alt="Perplexity" />
+  <img src="https://cdn.simpleicons.org/ollama/75F7A2" width="42" height="42" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/vllm/67A7FF" width="42" height="42" alt="vLLM" />
+  <img src="https://cdn.simpleicons.org/langchain/FF6B6B" width="42" height="42" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/42F5FF" width="42" height="42" alt="scikit-learn" />
+  <img src="https://cdn.simpleicons.org/onnx/B86BFF" width="42" height="42" alt="ONNX" />
+  <img src="https://cdn.simpleicons.org/mlflow/FF4FD8" width="42" height="42" alt="MLflow" />
+  <img src="https://cdn.simpleicons.org/weightsandbiases/B6FF4A" width="42" height="42" alt="Weights & Biases" />
+  <img src="https://cdn.simpleicons.org/qdrant/FFB347" width="42" height="42" alt="Qdrant" />
+  <img src="https://cdn.simpleicons.org/milvus/75F7A2" width="42" height="42" alt="Milvus" />
+  <img src="https://cdn.simpleicons.org/replicate/67A7FF" width="42" height="42" alt="Replicate" />
+  <img src="https://cdn.simpleicons.org/openrouter/FF6B6B" width="42" height="42" alt="OpenRouter" />
+  <img src="https://cdn.simpleicons.org/googlecolab/42F5FF" width="42" height="42" alt="Google Colab" />
+  <img src="https://cdn.simpleicons.org/cursor/B86BFF" width="42" height="42" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/windsurf/FF4FD8" width="42" height="42" alt="Windsurf" />
+  <img src="https://cdn.simpleicons.org/dify/B6FF4A" width="42" height="42" alt="Dify" />
+  <img src="https://cdn.simpleicons.org/modal/FFB347" width="42" height="42" alt="Modal" />
+  <img src="https://cdn.simpleicons.org/elevenlabs/75F7A2" width="42" height="42" alt="ElevenLabs" />
+  <img src="https://cdn.simpleicons.org/huggingface/67A7FF" width="42" height="42" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/anthropic/FF6B6B" width="42" height="42" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/nvidia/42F5FF" width="42" height="42" alt="NVIDIA" />
+  <img src="https://cdn.simpleicons.org/amd/B86BFF" width="42" height="42" alt="AMD" />
+  <img src="https://cdn.simpleicons.org/keras/FF4FD8" width="42" height="42" alt="Keras" />
+  <img src="https://cdn.simpleicons.org/jupyter/42F5FF" width="42" height="42" alt="Jupyter" />
+  <img src="https://cdn.simpleicons.org/databricks/B86BFF" width="42" height="42" alt="Databricks" />
+</p>
+<h3 align="center">ENGINEERING</h3>
+
+<p align="center">
+  <img src="assets/engineering/antenna.svg" width="42" height="42" alt="antenna" />
+  <img src="assets/engineering/atom-2.svg" width="42" height="42" alt="atom 2" />
+  <img src="assets/engineering/atom.svg" width="42" height="42" alt="atom" />
+  <img src="assets/engineering/automatic-gearbox.svg" width="42" height="42" alt="automatic gearbox" />
+  <img src="assets/engineering/battery-charging.svg" width="42" height="42" alt="battery charging" />
+  <img src="assets/engineering/boiler.svg" width="42" height="42" alt="boiler" />
+  <img src="assets/engineering/building-bridge-2.svg" width="42" height="42" alt="building bridge 2" />
+  <img src="assets/engineering/building-factory-2.svg" width="42" height="42" alt="building factory 2" />
+  <img src="assets/engineering/building-factory.svg" width="42" height="42" alt="building factory" />
+  <img src="assets/engineering/building-wind-turbine.svg" width="42" height="42" alt="building wind turbine" />
+  <img src="assets/engineering/bulb.svg" width="42" height="42" alt="bulb" />
+  <img src="assets/engineering/car-turbine.svg" width="42" height="42" alt="car turbine" />
+  <img src="assets/engineering/circuit-ammeter.svg" width="42" height="42" alt="circuit ammeter" />
+  <img src="assets/engineering/circuit-capacitor.svg" width="42" height="42" alt="circuit capacitor" />
+  <img src="assets/engineering/circuit-cell.svg" width="42" height="42" alt="circuit cell" />
+  <img src="assets/engineering/circuit-diode.svg" width="42" height="42" alt="circuit diode" />
+  <img src="assets/engineering/circuit-ground.svg" width="42" height="42" alt="circuit ground" />
+  <img src="assets/engineering/circuit-inductor.svg" width="42" height="42" alt="circuit inductor" />
+  <img src="assets/engineering/circuit-motor.svg" width="42" height="42" alt="circuit motor" />
+  <img src="assets/engineering/circuit-resistor.svg" width="42" height="42" alt="circuit resistor" />
+  <img src="assets/engineering/circuit-switch-open.svg" width="42" height="42" alt="circuit switch open" />
+  <img src="assets/engineering/circuit-voltmeter.svg" width="42" height="42" alt="circuit voltmeter" />
+  <img src="assets/engineering/cooling-tower.svg" width="42" height="42" alt="cooling tower" />
+  <img src="assets/engineering/cpu-2.svg" width="42" height="42" alt="cpu 2" />
+  <img src="assets/engineering/cpu.svg" width="42" height="42" alt="cpu" />
+  <img src="assets/engineering/crane.svg" width="42" height="42" alt="crane" />
+  <img src="assets/engineering/engine.svg" width="42" height="42" alt="engine" />
+  <img src="assets/engineering/fire-extinguisher.svg" width="42" height="42" alt="fire extinguisher" />
+  <img src="assets/engineering/firetruck.svg" width="42" height="42" alt="firetruck" />
+  <img src="assets/engineering/flask.svg" width="42" height="42" alt="flask" />
+  <img src="assets/engineering/forklift.svg" width="42" height="42" alt="forklift" />
+  <img src="assets/engineering/gas-station.svg" width="42" height="42" alt="gas station" />
+  <img src="assets/engineering/manual-gearbox.svg" width="42" height="42" alt="manual gearbox" />
+  <img src="assets/engineering/microscope.svg" width="42" height="42" alt="microscope" />
+  <img src="assets/engineering/nuclear-reactor.svg" width="42" height="42" alt="nuclear reactor" />
+  <img src="assets/engineering/pipeline.svg" width="42" height="42" alt="pipeline" />
+  <img src="assets/engineering/plug-connected.svg" width="42" height="42" alt="plug connected" />
+  <img src="assets/engineering/robot-face.svg" width="42" height="42" alt="robot face" />
+  <img src="assets/engineering/robot.svg" width="42" height="42" alt="robot" />
+  <img src="assets/engineering/rocket.svg" width="42" height="42" alt="rocket" />
+  <img src="assets/engineering/satellite.svg" width="42" height="42" alt="satellite" />
+  <img src="assets/engineering/solar-electricity.svg" width="42" height="42" alt="solar electricity" />
+  <img src="assets/engineering/solar-panel-2.svg" width="42" height="42" alt="solar panel 2" />
+  <img src="assets/engineering/solar-panel.svg" width="42" height="42" alt="solar panel" />
+  <img src="assets/engineering/steam-turbine.svg" width="42" height="42" alt="steam turbine" />
+  <img src="assets/engineering/sun-electricity.svg" width="42" height="42" alt="sun electricity" />
+  <img src="assets/engineering/tools.svg" width="42" height="42" alt="tools" />
+  <img src="assets/engineering/tower.svg" width="42" height="42" alt="tower" />
+  <img src="assets/engineering/train.svg" width="42" height="42" alt="train" />
+  <img src="assets/engineering/truck.svg" width="42" height="42" alt="truck" />
 </p>
